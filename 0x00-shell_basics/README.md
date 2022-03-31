@@ -10,3 +10,4 @@
 9-firstdirdeletion deletes /tmp/my_first_directory
 10-back changes working directory to previous one
 11-lists lists all files in current directory,parent directory and /boot including hidden files 
+12-file_type prints a file named iamafile in/tmp
