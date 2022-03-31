@@ -8,3 +8,4 @@
 7-everybody adds execute permissions to all users
 8-James_Bond sets no permissions for owner and group but all permissions for users on the file hello
 9-John_Doe sets mode of file to -rwxr-x-wx
+10-mirror_permissions sets hello mode to same as that of olleh
