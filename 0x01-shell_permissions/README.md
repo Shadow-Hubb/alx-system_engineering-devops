@@ -7,3 +7,4 @@
 6-multiple_permissions adds execute permission to user group and read permissions to others
 7-everybody adds execute permissions to all users
 8-James_Bond sets no permissions for owner and group but all permissions for users on the file hello
+9-John_Doe sets mode of file to -rwxr-x-wx
