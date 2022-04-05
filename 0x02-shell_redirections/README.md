@@ -6,3 +6,5 @@
 5-firstlines display first 10 lines of /etc/passwd
 6-third_line displays thrid line of file iacta
 7-file creates \*\'Best School\'\*$\?\*\*\*\*\*:) file containing Best School
+8-cwd_state writes ls -la int ls_cwd_content and creates it if it doesn't exist or rewrites if already exists
+9-duplicate_last_line duplicates last line of file iacta to iacta
