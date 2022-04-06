@@ -20,3 +20,4 @@
 19-AZ replace all characters A and c from imput to Z and e
 20-hiago removes all letters c and C from imput
 21-reverse reverses imput
+22-users_and_homes displays all users and their home directories sorted by users
