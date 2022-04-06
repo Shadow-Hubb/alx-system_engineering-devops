@@ -19,3 +19,4 @@
 18-letteronly displays all lines of file /etc/ssh/sshd_config starting with a letter
 19-AZ replace all characters A and c from imput to Z and e
 20-hiago removes all letters c and C from imput
+21-reverse reverses imput
